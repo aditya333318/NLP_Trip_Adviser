@@ -110,32 +110,6 @@ This project enables:
 
 ---
 
-# 🚀 How to Run the Project
-
-1. Clone the repository
-2. Install required libraries:
-
-```bash
-pip install pandas numpy scikit-learn nltk matplotlib seaborn
-```
-
-3. Open the notebook:
-```
-NLP_trip (3).ipynb
-```
-
-4. Run all cells sequentially
-
----
-
-# 📈 Future Improvements
-
-- Implement Deep Learning models (LSTM, BERT)
-- Perform Aspect-Based Sentiment Analysis
-- Deploy as a Web Application
-- Create interactive dashboard for sentiment visualization
-
----
 
 # 🧠 Project Highlights
 
