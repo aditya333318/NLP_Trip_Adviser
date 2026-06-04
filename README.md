@@ -71,6 +71,19 @@ By converting textual reviews into structured numerical representations, the pro
 
 # 🔍 Key Insights Discovered
 
+The Comparison Between Each Model
+<img width="559" height="184" alt="Screenshot 2026-06-04 232022" src="https://github.com/user-attachments/assets/5c1fd11b-e5ab-436c-95e6-f4c5334dea24" />
+
+
+Model Comparison
+<img width="921" height="608" alt="Screenshot 2026-06-04 232212" src="https://github.com/user-attachments/assets/8dc7a6ba-a294-4adf-a789-9fc58db98f90" />
+
+
+Why Logistic is clear Winner
+<img width="346" height="154" alt="Screenshot 2026-06-04 232220" src="https://github.com/user-attachments/assets/33a98081-0b10-4900-892e-c296a6c773c8" />
+
+
+
 ## ⭐ 1. Sentiment Distribution
 - Majority of reviews were positive.
 - Negative reviews were fewer but more detailed.
